@@ -10,7 +10,7 @@ they can also be used to access information provided by web servers in private n
 
 The major web browsers are Firefox, Internet Explorer/Microsoft Edge,[2][3][4] Google Chrome, Opera, and Safari.
 
-History
+<h2>History</h2>
 Main article: History of the web browser
 The first web browser was invented in 1990 by Sir Tim Berners-Lee. Berners-Lee is the director of the World Wide Web 
 Consortium (W3C), which oversees the Web's continued development, and is also the founder of the World Wide Web Foundation. 
@@ -29,7 +29,7 @@ Microsoft responded with its Internet Explorer in 1995, also heavily influenced 
 the industry's first browser war. Bundled with Windows, Internet Explorer gained dominance in the web browser market; 
 Internet Explorer usage share peaked at over 95% by 2002.[7]
 
-Business models.
+<h2>Business models.</h2>
 The ways that web browser makers fund their development costs has changed over time. 
 The first web browser, WorldWideWeb, was a research project.
 Netscape Navigator was sold commercially, as was Opera.
@@ -56,7 +56,7 @@ increasing ad revenue and which funds development at Google and of Google Chrome
 Many less-well-known free software browsers, such as Konqueror, were hardly funded at all and were developed mostly by
 volunteers free of charge. 
 
-Function and how they work.
+<h2>Function and how they work.</h2>
 The primary purpose of a web browser is to bring information resources to the user ("retrieval" or "fetching"), 
 allowing them to view the information ("display", "rendering"), and then access other information ("navigation", 
 "following links").
@@ -78,7 +78,7 @@ Information resources may contain hyperlinks to other information resources. Eac
 go to. When a link is clicked, the browser navigates to the resource indicated by the link's target URI, and the process 
 of bringing content to the user begins again.
 
-Features.
+<h2>Features.</h2>
 Available web browsers range in features from minimal, text-based user interfaces with bare-bones support for HTML to 
 rich user interfaces supporting a wide variety of file formats and protocols. Browsers which include additional components 
 to support e-mail, Usenet news, and Internet Relay Chat (IRC), are sometimes referred to as "Internet suites" rather than 
@@ -93,7 +93,7 @@ corresponding to recent entries in the feed.[25] In Opera, a more traditional fe
 and displays the contents of the feed.[26]
 Furthermore, most browsers can be extended via plug-ins, downloadable components that provide additional features.
 
-User interface.
+<h2>User interface.</h2>
 Most major web browsers have these user interface elements in common:[27]
 
 Back and forward buttons to go back to the previous resource and forward respectively.
@@ -108,26 +108,26 @@ The viewport, the visible area of the webpage within the browser window.
 The ability to view the HTML source for a page.
 Major browsers also possess incremental find features to search within a web page.
 
-Privacy and security
+<h2>Privacy and security</h2>
 Main article: Browser security
 Most browsers support HTTP Secure and offer quick and easy ways to delete the web cache, 
 download history, form and search history, cookies, and browsing history. 
 For a comparison of the current security vulnerabilities of browsers, see comparison of web browsers.
 
-Standards support
+<h2>Standards support</h2>
 Early web browsers supported only a very simple version of HTML. 
 The rapid development of proprietary web browsers led to the development of non-standard dialects of HTML, 
 leading to problems with interoperability. Modern web browsers support a combination of standards-based 
 and de facto HTML and XHTML, which should be rendered in the same way by all browsers.
 
-Extensibility
+<h2>Extensibility</h2>
 A browser extension is a computer program that extends the functionality of a web browser. 
 Every major web browser supports the development of browser extensions.
 
-Components.
+<h2>Components.</h2>
 Web browsers consist of a user interface, layout engine, rendering engine, JavaScript interpreter, 
 UI backend, networking component and data persistence component. These components achieve different 
 functionalities of a web browser and together provide all capabilities of a web browser.[28]
 
-References
+<h3>References</h3>
 Google; (www.google.com) and Wikipedia; (https://en.wikipedia.org/wiki/Web_browser).
