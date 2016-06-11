@@ -1,4 +1,4 @@
-Definition of a web browser.
+<h1>Definition of a web browser.</h1>
 A web browser (commonly referred to as a browser) is a software application for retrieving, presenting,
 and traversing information resources on the World Wide Web. 
 An information resource is identified by a Uniform Resource Identifier (URI/URL) and may be a web page, 
@@ -130,24 +130,4 @@ UI backend, networking component and data persistence component. These component
 functionalities of a web browser and together provide all capabilities of a web browser.[28]
 
 References
-Jump up ^ Jacobs, Ian; Walsh, Norman (15 December 2004). "URI/Resource Relationships". 
-Architecture of the World Wide Web, Volume One. World Wide Web Consortium. Retrieved 30 June 2009.
-Jump up ^ Fitzpatrick, Jason (22 March 2009). "Five Best Web Browsers". Lifehacker. Gawker Media.
-Jump up ^ Wayner, Peter (27 April 2011). "Battle of the Web browsers". Infoworld. IDG.
-Jump up ^ Tibken, Shara (17 October 2012). "Aereo TV streaming expands to major Web browsers". CNET. CBS Interactive.
-Jump up ^ "Tim Berners-Lee: WorldWideWeb, the first Web client". W3.org. Retrieved 2011-12-07.
-^ Jump up to: a b "Bloomberg Game Changers: Marc Andreessen". Bloomberg. 17 March 2011. Retrieved 2011-12-07.
-^ Jump up to: a b "Mozilla Firefox Internet Browser Market Share Gains to 7.4%". Search Engine Journal. 24 November 2004. 
-Retrieved 2011-12-07.
-Jump up ^ Stewart, William. "Web Browser History". Retrieved 5 May 2009.
-^ Jump up to: a b c "StatCounter Global Stats - Browser, OS, Search Engine including Mobile Usage Share".
-Retrieved 2 May 2015.
-Jump up ^ "Internet Explorer usage to plummet below 50 percent by mid-2012". 3 September 2011. Retrieved 4 September 2011.
-Jump up ^ "CNN Money claims that Chrome is more popular than IE8". CNN. 16 December 2011. Retrieved 19 December 2011.
-Jump up ^ "StatCounter Global Stats - Browser, OS, Search Engine including Mobile Usage Share". Retrieved 2 May 2015.
-Jump up ^ "StatCounter Global Stats - Browser, OS, Search Engine including Mobile Usage Share". Retrieved 2 May 2015.
-Jump up ^ Warren, Tom (March 24, 2015). "Microsoft relegates Internet Explorer to a 'legacy engine'
-to make way for new browser". The Verge. Vox Media.
-
-Source of research.
 Google; (www.google.com) and Wikipedia; (https://en.wikipedia.org/wiki/Web_browser).
